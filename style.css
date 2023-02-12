@@ -1,0 +1,11 @@
+body{
+    background-image: url(Imgs/IMG_7335.JPG);
+    width: 100%;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 34px;
+    font-weight: 800;
+}
